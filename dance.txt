@@ -1,1 +1,4 @@
-left right lets dance
+step left
+step right
+lets dance 
+and twirl our hands
